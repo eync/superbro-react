@@ -1,10 +1,31 @@
-# superbro-react
-> Superbro Framework in React
-### Project is under work, initial release will be done when all components are done.
+![superbro-react](https://raw.githubusercontent.com/eync/SuperBro.dev/master/img/superblogo.svg)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![NPM](https://img.shields.io/npm/v/superbro-react.svg)](https://www.npmjs.com/package/superbro-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-Check out the CSS version of [superbro](https://github.com/eync/superbro) !
+# SUPERBRO React
+Minimalistic Boilerplate based on [Superbro](https://github.com/eync/superbro) CSS framework. 
 
-[![NPM](https://img.shields.io/npm/v/superbro-react.svg)](https://www.npmjs.com/package/superbro-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+### This React project is __Under Construction__, initial release will be done when all components are done..
+
+Visit [Superbro.DEV](https://superbro.dev) for CSS version.
+
+## Components
+**Done Components:**
+- Grid
+
+
+**Planned Components:**
+- Breadcrumb
+- Cards 
+- Dropdown
+- Labels
+- Progress Bar
+- Profile
+- Buttons
+- Forms
+- Tables
+- Blockquote
+- Codeblock
+- Menu
 
 ## Install
 
@@ -26,6 +47,10 @@ ReactDOM.render(
 );
 ```
 
-## License
+## Version
+Currently work in progress.
 
-MIT © [eync](https://github.com/eync)
+
+## License
+Superbro-react is free to use under the [open-source MIT-License](https://github.com/eync/superbro-react/blob/main/LICENSE)
+
