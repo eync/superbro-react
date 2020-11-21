@@ -18,8 +18,8 @@ import 'superbro-react/dist/index.css'
 const App = () => {
   return (  
   <Grid columns="6" gap="1px">
-    <Span span="12"><Button link="" text="test" /></Span> 
-    <Span span="2"><ExampleComponent text="Create React Library Example 😄" /></Span>
+    <Span span="6"><Button text="heyy" /></Span> 
+    <Span span="6"><ExampleComponent text="Create React Library Example 😄" /></Span>
     <Span span="4"><ExampleComponent text="Create React Library Example 😄" /></Span>
     <Span span="4"><ExampleComponent text="Create React Library Example 😄" /></Span>
     <Span span="6"><ExampleComponent text="Create React Library Example 😄" /></Span>
