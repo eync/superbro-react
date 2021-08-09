@@ -1,5 +1,12 @@
-![superbro-react](https://github.com/eync/SuperBro.dev/blob/master/img/superblogo.svg)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) [![NPM](https://img.shields.io/npm/v/superbro-react.svg)](https://www.npmjs.com/package/superbro-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+<div align="center">
+  <img src="https://github.com/eync/SuperBro.dev/blob/master/img/superblogo.png">
+</div>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/for-you.svg">
+  <img src="https://img.shields.io/npm/v/superbro-react.svg">
+  <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg">
+</div>  
 
 # SUPERBRO React
 Minimalistic Boilerplate based on [Superbro](https://github.com/eync/superbro) CSS framework. 
